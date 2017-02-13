@@ -1,0 +1,1 @@
+Small course work that calculates the depth of image from stereo images.
